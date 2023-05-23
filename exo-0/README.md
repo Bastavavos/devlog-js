@@ -27,3 +27,6 @@ Décommenter la ligne puis recharger la page.
 ```
 
 Que se passe-t-il et pourquoi ?
+
+message d'erreur : myVAriable is not defined
+myVAriable n'est pas déclarée
